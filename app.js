@@ -1,4 +1,6 @@
 //to start this server and run it in port 3000 enter "node app.js" in the command line.
+//to kill the port enter enter cntrl/c
+//server must be restarted to acknowledge changes.
 
 const http = require('http')
 
